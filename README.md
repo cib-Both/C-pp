@@ -31,5 +31,5 @@ Welcome to the **C++ DSA** repository! This project contains a comprehensive col
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/C-pp.git
+   git clone https://github.com/cib-Both/C-pp.git
    cd C-pp
