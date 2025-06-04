@@ -27,6 +27,9 @@ Welcome to the **C++ DSA** repository! This project contains a comprehensive col
 - Hash Tables, Double Hashing
 - Graphs (Adjacency List & Matrix)
 
+### Game
+- Tie_Tac_Toe Game
+
 ## 💻 Setup Instructions
 
 1. Clone the repository:
